@@ -10,5 +10,25 @@
         "Extension Packs"
     ],
     "extensionPack": [  
+        "amiralizadeh9480.laravel-extra-intellisense", 
+        "amirmarmul.laravel-blade-vscode", 
+        "AnbuselvanRocky.bootstrap5-vscode", 
+        "austenc.laravel-blade-spacer", 
+        "bmewburn.vscode-intelephense-client", 
+        "bradlc.vscode-tailwindcss", 
+        "cierra.livewire-vscode", 
+        "codingyu.laravel-goto-view", 
+        "ecmel.vscode-html-css", 
+        "kisstkondoros.vscode-gutter-preview", 
+        "mgmcdermott.vscode-language-babel", 
+        "MrChetan.phpstorm-parameter-hints-in-vscode", 
+        "ms-azuretools.vscode-docker", 
+        "onecentlin.laravel-blade", 
+        "ryannaddy.laravel-artisan", 
+        "sibiraj-s.vscode-scss-formatter", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "Zignd.html-css-class-completion",
+        "mhutchie.git-graph",
+        "eamodio.gitlens"
     ]
 }
