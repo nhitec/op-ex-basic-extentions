@@ -1,0 +1,14 @@
+{
+    "name": "n-hitec-opex-basics",
+    "displayName": "N-HiTec - Op&Ex: basics",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [  
+    ]
+}
