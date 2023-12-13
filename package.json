@@ -1,13 +1,24 @@
 {
     "name": "n-hitec-opex-basics",
-    "displayName": "N-HiTec - Op&Ex: basics",
-    "description": "",
+    "displayName": "N-HiTec - Op&Ex Basic Extensions",
+    "description": "List of the basic extentions used by the department Opération & Execution at N-HiTec.",
     "version": "0.0.1",
+    "icon": "Logo.png",
+    "homepage": "https://github.com/nhitec/op-ex-basic-extentions",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nhitec/op-ex-basic-extentions.git"
+    },
+    "publisher": "N-HiTec",
     "engines": {
         "vscode": "^1.85.0"
     },
     "categories": [
         "Extension Packs"
+    ],
+    "keywords": [
+        "nhitec",
+        "N-HiTec"
     ],
     "extensionPack": [  
         "amiralizadeh9480.laravel-extra-intellisense", 
