@@ -21,25 +21,36 @@
         "N-HiTec"
     ],
     "extensionPack": [  
-        "amiralizadeh9480.laravel-extra-intellisense", 
-        "amirmarmul.laravel-blade-vscode", 
-        "AnbuselvanRocky.bootstrap5-vscode", 
+        "shufo.vscode-blade-formatter",
+        "naoray.laravel-goto-components",
+        "webdevsavvy.blade-components",
         "austenc.laravel-blade-spacer", 
-        "bmewburn.vscode-intelephense-client", 
-        "bradlc.vscode-tailwindcss", 
-        "cierra.livewire-vscode", 
+        "amirmarmul.laravel-blade-vscode", 
+        "onecentlin.laravel-blade", 
+
+        "amiralizadeh9480.laravel-extra-intellisense", 
         "codingyu.laravel-goto-view", 
+        "ryannaddy.laravel-artisan", 
+
+        "formulahendry.auto-rename-tag",
+        "vincaslt.highlight-matching-tag",
+
         "ecmel.vscode-html-css", 
+        "Zignd.html-css-class-completion",
+        "sibiraj-s.vscode-scss-formatter", 
+
+        "AnbuselvanRocky.bootstrap5-vscode",
+
         "kisstkondoros.vscode-gutter-preview", 
         "mgmcdermott.vscode-language-babel", 
-        "MrChetan.phpstorm-parameter-hints-in-vscode", 
         "ms-azuretools.vscode-docker", 
-        "onecentlin.laravel-blade", 
-        "ryannaddy.laravel-artisan", 
-        "sibiraj-s.vscode-scss-formatter", 
         "VisualStudioExptTeam.vscodeintellicode", 
-        "Zignd.html-css-class-completion",
+
+        "bmewburn.vscode-intelephense-client", 
+        "MrChetan.phpstorm-parameter-hints-in-vscode", 
+        
         "mhutchie.git-graph",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "pkief.material-icon-theme"
     ]
 }
