@@ -22,35 +22,33 @@
     ],
     "extensionPack": [  
         "shufo.vscode-blade-formatter",
+        "amiralizadeh9480.laravel-extra-intellisense", 
+        "ryannaddy.laravel-artisan", 
+        "codingyu.laravel-goto-view", 
+        "amirmarmul.laravel-blade-vscode", 
+        "onecentlin.laravel-blade", 
         "naoray.laravel-goto-components",
         "webdevsavvy.blade-components",
         "austenc.laravel-blade-spacer", 
-        "amirmarmul.laravel-blade-vscode", 
-        "onecentlin.laravel-blade", 
-
-        "amiralizadeh9480.laravel-extra-intellisense", 
-        "codingyu.laravel-goto-view", 
-        "ryannaddy.laravel-artisan", 
 
         "formulahendry.auto-rename-tag",
         "vincaslt.highlight-matching-tag",
 
+        "bmewburn.vscode-intelephense-client", 
+        "MrChetan.phpstorm-parameter-hints-in-vscode", 
+
         "ecmel.vscode-html-css", 
         "Zignd.html-css-class-completion",
         "sibiraj-s.vscode-scss-formatter", 
-
         "AnbuselvanRocky.bootstrap5-vscode",
+
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
 
         "kisstkondoros.vscode-gutter-preview", 
         "mgmcdermott.vscode-language-babel", 
         "ms-azuretools.vscode-docker", 
         "VisualStudioExptTeam.vscodeintellicode", 
-
-        "bmewburn.vscode-intelephense-client", 
-        "MrChetan.phpstorm-parameter-hints-in-vscode", 
-        
-        "mhutchie.git-graph",
-        "eamodio.gitlens",
         "pkief.material-icon-theme"
     ]
 }
