@@ -1,54 +1,53 @@
 {
-    "name": "n-hitec-opex-basics",
-    "displayName": "N-HiTec - Op&Ex Basic Extensions",
-    "description": "List of the basic extentions used by the department Opération & Execution at N-HiTec.",
-    "version": "1.0.0",
-    "icon": "Logo.png",
-    "homepage": "https://github.com/nhitec/op-ex-basic-extentions",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/nhitec/op-ex-basic-extentions.git"
-    },
-    "publisher": "N-HiTec",
-    "engines": {
-        "vscode": "^1.85.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "keywords": [
-        "nhitec",
-        "N-HiTec"
-    ],
-    "extensionPack": [  
-        "shufo.vscode-blade-formatter",
-        "amiralizadeh9480.laravel-extra-intellisense", 
-        "ryannaddy.laravel-artisan", 
-        "codingyu.laravel-goto-view", 
-        "amirmarmul.laravel-blade-vscode", 
-        "onecentlin.laravel-blade", 
-        "naoray.laravel-goto-components",
-        "webdevsavvy.blade-components",
-        "austenc.laravel-blade-spacer", 
-
-        "formulahendry.auto-rename-tag",
-        "vincaslt.highlight-matching-tag",
-
-        "bmewburn.vscode-intelephense-client", 
-        "MrChetan.phpstorm-parameter-hints-in-vscode", 
-
-        "ecmel.vscode-html-css", 
-        "Zignd.html-css-class-completion",
-        "sibiraj-s.vscode-scss-formatter", 
-        "AnbuselvanRocky.bootstrap5-vscode",
-
-        "mhutchie.git-graph",
-        "eamodio.gitlens",
-
-        "kisstkondoros.vscode-gutter-preview", 
-        "mgmcdermott.vscode-language-babel", 
-        "ms-azuretools.vscode-docker", 
-        "VisualStudioExptTeam.vscodeintellicode", 
-        "pkief.material-icon-theme"
-    ]
+  "name": "n-hitec-opex-basics",
+  "displayName": "N-HiTec - Op&Ex Basic Extensions",
+  "description": "List of the basic extentions used by the department Opération & Execution at N-HiTec.",
+  "version": "1.0.0",
+  "icon": "Logo.png",
+  "homepage": "https://github.com/nhitec/op-ex-basic-extentions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nhitec/op-ex-basic-extentions.git"
+  },
+  "publisher": "N-HiTec",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "nhitec",
+    "N-HiTec"
+  ],
+  "extensionPack": [
+    "shufo.vscode-blade-formatter",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "ryannaddy.laravel-artisan",
+    "codingyu.laravel-goto-view",
+    "amirmarmul.laravel-blade-vscode",
+    "onecentlin.laravel-blade",
+    "naoray.laravel-goto-components",
+    "webdevsavvy.blade-components",
+    "austenc.laravel-blade-spacer",
+    "formulahendry.auto-rename-tag",
+    "vincaslt.highlight-matching-tag",
+    "nhedger.inertia",
+    "bradlc.vscode-tailwindcss",
+    "dsznajder.es7-react-js-snippets",
+    "jaush-m.inertia-intellisense",
+    "bmewburn.vscode-intelephense-client",
+    "MrChetan.phpstorm-parameter-hints-in-vscode",
+    "ecmel.vscode-html-css",
+    "Zignd.html-css-class-completion",
+    "sibiraj-s.vscode-scss-formatter",
+    "AnbuselvanRocky.bootstrap5-vscode",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "kisstkondoros.vscode-gutter-preview",
+    "mgmcdermott.vscode-language-babel",
+    "ms-azuretools.vscode-docker",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "pkief.material-icon-theme"
+  ]
 }
